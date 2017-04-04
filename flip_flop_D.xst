@@ -1,0 +1,5 @@
+set -tmpdir "E:/Usuario/Documentos/Xilinx/Procesador/xst/projnav.tmp"
+set -xsthdpdir "E:/Usuario/Documentos/Xilinx/Procesador/xst"
+elaborate
+-ifn flip_flop_D.prj
+-ifmt mixed
