@@ -1,0 +1,9 @@
+V3 4
+FL E:/Usuario/Documentos/Xilinx/flip-flop-D/flip-flop-D.vhd 2017/04/02.19:46:41 P.20131013
+FL E:/Usuario/Documentos/Xilinx/Procesador/flip-flop-D.vhd 2017/04/02.19:46:41 P.20131013
+EN work/flip_flop_D 1491262867 \
+      FL E:/Usuario/Documentos/Xilinx/Procesador/flip-flop-D.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/flip_flop_D/Behavioral 1491262868 \
+      FL E:/Usuario/Documentos/Xilinx/Procesador/flip-flop-D.vhd \
+      EN work/flip_flop_D 1491262867
